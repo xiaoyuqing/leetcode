@@ -36,4 +36,3 @@ var climbStairs = function(n) {
 }
 
 console.log(climbStairs(5)) //8
-
