@@ -3,7 +3,7 @@
  * @return {string}
  */
 
- //第一种 把数组里面的字符串长度用arr存起来，再arr排序，选arr最短的字符串循环，把strs里面的字符串跟它比较，选出最长公共前缀
+ //第一种 把数组里面的字符串的长度用arr存起来，再arr排序，选arr最短的字符串循环，把strs里面的字符串跟它比较，选出最长公共前缀
 var longestCommonPrefix = function (strs) {
   let arr = []
   let result = ""
