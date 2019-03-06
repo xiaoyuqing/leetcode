@@ -16,7 +16,7 @@ var maxProfit = function(prices) {
 };
 
 
-// 
+//  
 var maxProfit = function (prices) {
   let len = prices.length
   let max = 0
